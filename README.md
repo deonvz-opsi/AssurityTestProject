@@ -23,7 +23,7 @@ API testing project
 3. GetPromotionList()
   This method returns a List of JSON Promotion objects contained in Category.
 
-This project also contains classes for creating JSON objects for Category, Promotion, Fees, ListingFeeTier. The last three are child items of Category.
+- This project also contains classes for creating JSON objects for Category, Promotion, Fees, ListingFeeTier. The last three are child items of Category.
 These JSON objects are populated by the three methods as mentioned above. Creation of these objects are required to prevent false positives during testing. Full JSON objects were created for completeness and to allow for easy addition of test criteria.
 
 **Test Methods**
