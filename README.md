@@ -1,7 +1,7 @@
 # AssurityTestProject
 API testing project
 
-This assignment was coded in Visual Studio 2017 community addition.
+This assignment was coded in Visual Studio 2017 community edition.
 
 A solution called “AssurityMSTestProject” was created that contains two Projects:
 ProductConsoleApp and AssurityMsTestProject
