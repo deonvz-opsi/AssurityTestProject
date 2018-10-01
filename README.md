@@ -28,7 +28,8 @@ These JSON objects are populated by the three methods as mentioned above. Creati
 
 **Test Methods**
 - As per the task set out in the assignment, the first test method verifies the three test criteria. 
-I strongly advise against combining three acceptance criteria in to an automated test as per the assignment. For this reason I have written additional test methods. One for each of the acceptance criteria. 
+I strongly advise against combining three acceptance criteria in to an automated test as per the assignment. For this reason I have written additional test methods. One for each of the acceptance criteria.
+- To run the tests, compile the solution in Visual Studio 2017 Community edition. Under "Test Explorer" select "Run all" or run tests individually as required.
 
 **References:**
 - Call a Web API From a .NET Client (C#)
